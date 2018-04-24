@@ -1,0 +1,46 @@
+body{
+    background: #161616;
+}
+
+.container{
+    width: 86%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.omahpsd {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.omahpsd .thumb {
+    background: #232323;
+    padding: 10px;
+    margin: 13px;
+    border-radius: 4px;
+    -webkit-box-shadow: none;
+            box-shadow: none;
+    display: block;
+}
+
+.omahpsd .thumb img {
+    border-radius: 4px;
+    width: 100%;
+}
+
+img {
+    vertical-align: middle;
+}
+
+.owl-carousel .owl-item {
+    float: left;
+}
+
+.omahpsd .owl-theme .owl-controls .owl-page span {
+    background: #008ed6;
+}
+
+.nivo-lightbox-theme-default .nivo-lightbox-close{
+    width: 48px !important;
+    height: 48px !important;
+}
